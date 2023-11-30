@@ -1,0 +1,8 @@
+DEV DSA Notes
+- you can take quizzes on data structures 
+- have a search bar for algorithsm coded in python that have description of algorithm, code written in python, and some common leetcode problems that use them as well as run times
+- users have profiles that have days logged similar to leetcode. microsoft azure sql with python backend and react front-end
+- lets find a framework good for dashboards
+
+A LOT TO BREAK DOWN:
+- take it feature by feature
